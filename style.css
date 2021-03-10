@@ -1,0 +1,106 @@
+body{
+    margin: 0 0 0 0;
+}
+header{
+    text-align: center;
+    margin: 0 0 0 0;
+    background-color: black;
+}
+.menu a{
+    text-decoration: none;
+    padding: 10px 10px;
+    font-size: 20px;
+    color: white;
+}
+h3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 35px;
+    color: white;
+    margin: 0 0 0 0;
+}
+.menu{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding: 15px 0;
+}
+.menu a:hover{
+    color:black;
+    background-color: rgba(255, 255, 255, 0.658);
+}
+.icons{
+    text-align: center;
+    letter-spacing: 10px;
+}
+.icons p{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.icons a{
+    color: black;
+}
+.fa-facebook:hover{
+    color: #0b3b92;
+}
+.fa-at:hover{
+    color:	#ef1f1c;
+}
+.fa-github:hover{
+    color: black;
+}
+.fa-instagram:hover{
+    color:#DD2A7B;
+}
+.info p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    font-size:50px;
+    margin: 0 0 0 0;
+    padding:100px 0 20px 0;
+    color: white;
+}
+.info{
+    background-image: linear-gradient(rgba(77, 77, 77, 0.75),rgba(77, 77, 77, 0.75)),url("images/backimg.jpg");
+    /* background-size: auto; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:100vh;
+}
+form{
+    text-align: center;
+    padding:0 0 30px 0;
+}
+.about-us th{
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin:0 0 0 0;
+    padding: 5px 0 0 0;
+}
+.about-us tr{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.about-us th{
+    font-size: 30px;
+}
+.about-us td{
+    font-size: 20px
+}
+.about-us table{
+    text-align: center;
+}
+.about-us{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: auto;
+    width:100%;
+    padding-top:30px;
+}
+.fa-lightbulb{
+    color: palevioletred;
+}
+.fa-brain{
+    color: rgb(236, 233, 11);
+}
+.fa-handshake{
+    color: teal;
+}
+footer{
+    margin: 50px 0;
+}
